@@ -22,3 +22,7 @@ main {
 hr {
   width: 100%;
 }
+
+::selection {
+  background: #f77378;
+}
